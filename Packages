@@ -1,0 +1,73 @@
+Package: com.abcydia.afc2forios11
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: WZteam <admin@abcydia.com>
+Installed-Size: 672
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/com.abcydia.afc2forios11_1.3.1_iphoneos-arm.deb
+Size: 20324
+MD5sum: 78107ba9e7a31c020cd64fd33ae6c1d0
+SHA1: 3cd0c82ad9fbd5c4428b60453b0464ce46ae7255
+SHA256: e68a24a0e19cb6b0d183c2f945418349456e69933de77374c65d2cbf3257fb74
+Section: System
+Description: 激活PC端 全路径访问权限
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Saurik, Cannathe
+Name: AFC2 iOS11~13 系统路径
+Sponsor: ABCydia <http://www.abcydia.com>
+
+Package: com.abcydia.appsyncunified10
+Version: 70.0
+Architecture: iphoneos-arm
+Maintainer: WZteam <admin@abcydia.com>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/com.abcydia.appsyncunified10_70.0_iphoneos-arm.deb
+Size: 42098
+MD5sum: 38aa9704d85505aabd3de4d4281ab50c
+SHA1: f74075e53c2b4702fb0533dc1aebd99fd9ff17f8
+SHA256: 5503eb8479e4f77a6f4afcd32a7a7ef98cfa4c324970253f9c5fe29849eedc32
+Section: Tweaks
+Description: 关闭iOS App签名检查
+Author: Linus Yang, Karen
+Name: AppSync Unified 关闭签名
+Sponsor: ABCydia <http://www.abcydia.com>
+
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.14-3+debug
+Architecture: iphoneos-arm
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 84
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 7392
+MD5sum: 41ebada26cdb598d0072594208d14921
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
+
+Package: hanjbdan
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: han
+Filename: ./debs/hanjbdan.deb
+Size: 663826
+MD5sum: c8e5ce8bf58ee2824e6ed8324424480c
+SHA1: c1cc10de96767b6759448b8b4dd8255527b21a2b
+SHA256: 91c28b097728feb67cff48a8092201c8b3730610e1f4667b8f14c1366900c311
+Section: System
+Description: han
+Tag: role::hacker
+Author: han
+Name: hanjbdan
+
