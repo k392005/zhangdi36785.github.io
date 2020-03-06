@@ -61,10 +61,10 @@ Version: 1.9
 Architecture: iphoneos-arm
 Maintainer: han
 Filename: ./debs/hanjbdan.deb
-Size: 663826
-MD5sum: c8e5ce8bf58ee2824e6ed8324424480c
-SHA1: c1cc10de96767b6759448b8b4dd8255527b21a2b
-SHA256: 91c28b097728feb67cff48a8092201c8b3730610e1f4667b8f14c1366900c311
+Size: 646644
+MD5sum: a8449199a05441b7d2d7296f81052d0d
+SHA1: a597fe3b3f06bf5c63269c6527a3752d6ec02215
+SHA256: 78c931239f5af8c6429568e2add068a1fccbef414a7dbae4cdec60d021a3b840
 Section: System
 Description: han
 Tag: role::hacker
