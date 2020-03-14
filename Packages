@@ -57,14 +57,14 @@ Author: Alban Diquet <nabla.c0d3@gmail.com>
 Name: SSL Kill Switch 2
 
 Package: hanjbdan
-Version: 1.9
+Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: han
 Filename: ./debs/hanjbdan.deb
-Size: 646644
-MD5sum: a8449199a05441b7d2d7296f81052d0d
-SHA1: a597fe3b3f06bf5c63269c6527a3752d6ec02215
-SHA256: 78c931239f5af8c6429568e2add068a1fccbef414a7dbae4cdec60d021a3b840
+Size: 648676
+MD5sum: 6b4cd19d46f924c027de9425aa47451a
+SHA1: b8d2a084b879a52676478f7bd3026d18833466ef
+SHA256: edcba8559b8126cf82603cc992637c5280e9ee6bcc475b9fab3a253011170d5c
 Section: System
 Description: han
 Tag: role::hacker
