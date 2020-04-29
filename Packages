@@ -71,3 +71,18 @@ Tag: role::hacker
 Author: han
 Name: hanjbdan
 
+Package: libaw
+Version: 2.21
+Architecture: iphoneos-arm
+Maintainer: han
+Filename: ./debs/libaw.deb
+Size: 233748
+MD5sum: 25ba771308392b4f18f472036499b3b6
+SHA1: c50030be7fbf7d4a47d717ee35d2c13a8f6faf21
+SHA256: f5b8cd6c68c5d277ff031e90bd9648a6d58799f0aee643ae3370ab72d8a637dc
+Section: System
+Description: han
+Tag: role::hacker
+Author: han
+Name: libaw
+
