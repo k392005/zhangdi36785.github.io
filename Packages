@@ -1,88 +1,15 @@
-Package: com.abcydia.afc2forios11
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: WZteam <admin@abcydia.com>
-Installed-Size: 672
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: ./debs/com.abcydia.afc2forios11_1.3.1_iphoneos-arm.deb
-Size: 20324
-MD5sum: 78107ba9e7a31c020cd64fd33ae6c1d0
-SHA1: 3cd0c82ad9fbd5c4428b60453b0464ce46ae7255
-SHA256: e68a24a0e19cb6b0d183c2f945418349456e69933de77374c65d2cbf3257fb74
-Section: System
-Description: 激活PC端 全路径访问权限
-Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
-Author: Saurik, Cannathe
-Name: AFC2 iOS11~13 系统路径
-Sponsor: ABCydia <http://www.abcydia.com>
-
-Package: com.abcydia.appsyncunified10
-Version: 70.0
-Architecture: iphoneos-arm
-Maintainer: WZteam <admin@abcydia.com>
-Installed-Size: 496
-Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
-Replaces: us.hackulo.appsync50
-Provides: appsync
-Filename: ./debs/com.abcydia.appsyncunified10_70.0_iphoneos-arm.deb
-Size: 42098
-MD5sum: 38aa9704d85505aabd3de4d4281ab50c
-SHA1: f74075e53c2b4702fb0533dc1aebd99fd9ff17f8
-SHA256: 5503eb8479e4f77a6f4afcd32a7a7ef98cfa4c324970253f9c5fe29849eedc32
-Section: Tweaks
-Description: 关闭iOS App签名检查
-Author: Linus Yang, Karen
-Name: AppSync Unified 关闭签名
-Sponsor: ABCydia <http://www.abcydia.com>
-
-Package: com.nablac0d3.sslkillswitch2
-Version: 0.14-3+debug
-Architecture: iphoneos-arm
-Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
-Installed-Size: 84
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
-Size: 7392
-MD5sum: 41ebada26cdb598d0072594208d14921
-SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
-SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
-Section: Tweaks
-Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
-Author: Alban Diquet <nabla.c0d3@gmail.com>
-Name: SSL Kill Switch 2
-
 Package: hanjbdan
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: han
 Filename: ./debs/hanjbdan.deb
-Size: 648676
-MD5sum: 6b4cd19d46f924c027de9425aa47451a
-SHA1: b8d2a084b879a52676478f7bd3026d18833466ef
-SHA256: edcba8559b8126cf82603cc992637c5280e9ee6bcc475b9fab3a253011170d5c
+Size: 2461158
+MD5sum: b3b72d30d0b25219ab93b4a007da78f4
+SHA1: 2205d6bb1eead6d5f68e8db9c19c923971115813
+SHA256: 5fe7118dc166867cace6a4bfc6ce1b3d1f8091519aea5f0f2f4a9643bb1f1020
 Section: System
 Description: han
 Tag: role::hacker
 Author: han
 Name: hanjbdan
-
-Package: libaw
-Version: 2.21
-Architecture: iphoneos-arm
-Maintainer: han
-Filename: ./debs/libaw.deb
-Size: 233748
-MD5sum: 25ba771308392b4f18f472036499b3b6
-SHA1: c50030be7fbf7d4a47d717ee35d2c13a8f6faf21
-SHA256: f5b8cd6c68c5d277ff031e90bd9648a6d58799f0aee643ae3370ab72d8a637dc
-Section: System
-Description: han
-Tag: role::hacker
-Author: han
-Name: libaw
 
