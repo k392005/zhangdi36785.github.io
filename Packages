@@ -1,12 +1,12 @@
 Package: hanjbdan
-Version: 2.2
+Version: 2.2.3
 Architecture: iphoneos-arm
 Maintainer: han
 Filename: ./debs/hanjbdan.deb
-Size: 2461158
-MD5sum: b3b72d30d0b25219ab93b4a007da78f4
-SHA1: 2205d6bb1eead6d5f68e8db9c19c923971115813
-SHA256: 5fe7118dc166867cace6a4bfc6ce1b3d1f8091519aea5f0f2f4a9643bb1f1020
+Size: 2531770
+MD5sum: 34fe9d4b9c0a7448f7f08cab2b2d8a8c
+SHA1: f324b5d537c5f0263c0d19291a2698e0f87ff17b
+SHA256: b5be9277a3ad3938a09aa198a5f3d4234307f2b777bd1a5abeea631760f234fc
 Section: System
 Description: han
 Tag: role::hacker
