@@ -1,3 +1,17 @@
+Package: com.hd.TestWork
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.hd.TestWork_1.1_iphoneos-arm.deb
+Size: 584532
+MD5sum: 759b88d9280f37222bd81e0d336bf3a1
+SHA1: 6dc3811322197cd14b891e728249032ac8bd817a
+SHA256: ce0c7d5e15c04557a7821f29259c819375df1cd1860474cfe8169678b3770fc2
+Section: Tweaks
+Priority: optional
+Author: handes
+Name: ZZZZAM
+
 Package: hanjbdan
 Version: 2.2.5
 Architecture: iphoneos-arm
