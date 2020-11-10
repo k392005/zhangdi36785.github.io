@@ -13,14 +13,14 @@ Author: handes
 Name: ZZZZAM
 
 Package: hanjbdan
-Version: 2.2.5
+Version: 2.8
 Architecture: iphoneos-arm
 Maintainer: han
 Filename: ./debs/hanjbdan.deb
-Size: 2641676
-MD5sum: 5b529640ca8aa80e360f6f32db4386a5
-SHA1: 5c3a9380a12d9b4e8347a30bef33c887ae74876f
-SHA256: c8968496c0dd726582561b9af343a755c8be0518ca8d52949369c4d2c825369d
+Size: 3197220
+MD5sum: 40020c099fc3ccf907f6a10f9878bd91
+SHA1: 5f9f78ef515f73db041c241e77cdce2d93374dac
+SHA256: 14ecd46300b1af1312214697d88f54bf71783542b11a0f4e80ab8e01600d1426
 Section: System
 Description: han
 Tag: role::hacker
