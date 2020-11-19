@@ -46,10 +46,10 @@ Version: 2.8.1
 Architecture: iphoneos-arm
 Maintainer: han
 Filename: ./debs/hanjbdan_2.8.1.deb
-Size: 3644040
-MD5sum: f02ce9418bce10e02f97d1d39ae410c6
-SHA1: 2d54dc6c345cf4b5de3670b9b97c0dca8ddc4c45
-SHA256: b1a200a0761c41c90af1e226b3f89a0c3b42457844b393a56d8b2c9a2b078e13
+Size: 3652740
+MD5sum: a29296b0e0581c357258f6e0316075fa
+SHA1: 3c63b0dde94f6959b6f451604201e943199d0efd
+SHA256: a7bf1238cadd7ff723766f6a4ba349c834640b05758cd28d566d9d103cb125a4
 Section: System
 Description: han
 Tag: role::hacker
