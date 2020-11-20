@@ -40,6 +40,20 @@ Priority: optional
 Author: handes
 Name: ZZZZAM_test
 
+Package: com.hd.TestWork
+Version: 1.5
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.hd.TestWork_1.5_iphoneos-arm.deb
+Size: 775164
+MD5sum: e13108ce2f4b87afc1cffc27e8ba66c5
+SHA1: 5a0aaf2bb5dd667e6a82ad762045f28010f8e0d5
+SHA256: bea24fc1d0bab66627165c6cab04a5fc2ffc1222adce43d4bda8f9d2950e68dd
+Section: Tweaks
+Priority: optional
+Author: handes
+Name: ZZZZAM_test
+
 Package: hanjbdan
 Version: 2.8
 Architecture: iphoneos-arm
